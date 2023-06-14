@@ -1,2 +1,2 @@
 # kuliah
-Kumpulan Tugas-Tugas Kuliah
+Project Selama Kuliah di Sistem Informasi Universitas Brawijaya
